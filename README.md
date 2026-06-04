@@ -1,4 +1,4 @@
-# 🤟 American Sign Language (ASL) Hand Gesture Recognition
+# American Sign Language (ASL) Hand Gesture Recognition
 
 This project is a deep learning-based system designed to recognize American Sign Language (ASL) hand gestures for both alphabets (A–Z) and numbers (0–9). It includes data preprocessing, background removal, model training using a Convolutional Neural Network (CNN), and evaluation.
 
